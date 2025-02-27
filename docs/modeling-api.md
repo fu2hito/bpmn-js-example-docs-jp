@@ -1,6 +1,6 @@
 # BPMN.js モデリング API
 
-このドキュメントでは、BPMN図をプログラムで変更できるBPMN.jsモデリングAPIの概要を説明します。
+このドキュメントでは、BPMN図をプログラムで変更できるBPMN.js[モデリングAPI](https://github.com/bpmn-io/bpmn-js-examples/tree/main/modeling-api)の概要を説明します。
 
 ## はじめに
 
@@ -174,4 +174,4 @@ eventBus.on('element.changed', (event) => {
   * このリポジトリのライセンスは、MITライセンスの寛容さを維持しつつ、特定の条件下でソフトウェアを使用することを求めるものです。特に、bpmn.ioのウォーターマークを保持する必要があるという点が、通常のMITライセンスとは大きく異なります。
 * [bpmn-jsの例](https://github.com/bpmn-io/bpmn-js-examples)
 * [BPMN 2.0仕様](https://www.omg.org/spec/BPMN/2.0/)
-* [](https://github.com/bpmn-io/bpmn-moddle/blob/main/resources/bpmn/json/bpmn.json)
+* [bpmn-jsでのモデル要素定義](https://github.com/bpmn-io/bpmn-moddle/blob/main/resources/bpmn/json/bpmn.json)

@@ -2,6 +2,8 @@
 
 このリポジトリでは[bpmn-js-examples](https://github.com/bpmn-io/bpmn-js-examples)の内容の説明を試みます。
 
+bpmn-jsのバージョンは`18.3.1`
+
 GitHub Copilotを使用します。
 
 ## 内容
